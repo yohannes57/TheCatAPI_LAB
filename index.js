@@ -251,3 +251,4 @@ getFavouritesBtn.addEventListener("click", getFavourites);
  * - Test other breeds as well. Not every breed has the same data available, so
  *   your code should account for this.
  */
+////////////////////////////////////////////////////////////
